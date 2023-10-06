@@ -1,0 +1,145 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+
+
+</style>
+</head>
+<body>
+    <nav class="navbar background">
+
+        <ul class="nav-list">
+
+            <div class="logo">
+            </div>
+
+            <li><a href="#">الصفحة الرئيسية</a></li>
+            <li><a href="#">من نحن</a></li>
+            <li><a href="#">تواصل معنا </a></li>
+            <li><a href="#"> تفاصيل الدورة </a></li>
+
+        </ul>
+        <div class="rightNav">
+        </div>
+    </nav>
+    <p><b><a href="default.asp" target="_blank"> للانضمام </a></b>
+    </p>
+
+
+
+
+    <style>
+         a {
+  color: white;
+}
+
+       .navbar {
+
+display: flex;
+
+align-items: center;
+
+justify-content: center;
+
+position: sticky;
+
+top: 0;
+
+cursor: pointer;
+
+}
+.nav-list {
+
+width: 70%;
+
+display: flex;
+
+align-items: center;
+
+}
+.nav-list li {
+
+list-style: none;
+
+padding: 26px 30px;
+
+}
+
+
+.nav-list li a {
+
+text-decoration: none;
+
+color: white;
+
+}
+
+
+.nav-list li a:hover {
+
+color: grey;
+
+}
+
+
+.rightnav {
+
+width: 30%;
+
+text-align: right;
+
+}
+     body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+div {
+    color:blue;
+  text-align: center;
+  vertical-align: text-bottom;
+  text-transform: uppercase;
+  p {
+    font-family: "Times New Roman", Times, serif;
+}
+}
+.center {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+p {
+    text-align: center;
+}
+body {
+  background-image:url("Background-Picture-Html2.jpg")
+}
+
+    </style>
+
+<div class="container">
+    
+    <div class="center">دورة تعلم CSS</div>
+  </div>
+    
+    
+</body>
+</html>
+
+
