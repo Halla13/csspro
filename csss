@@ -4,10 +4,6 @@
 <html>
 <head>
 <style>
-
-
-
-
 </style>
 </head>
 <body>
@@ -27,15 +23,11 @@
         <div class="rightNav">
         </div>
     </nav>
-    <p><b><a href="default.asp" target="_blank"> للانضمام </a></b>
+    <p><b><a href="default.asp" target="_blank"> للانضمام  </a></b>
     </p>
-
-
-
-
     <style>
          a {
-  color: white;
+  color: whitesmoke;
 }
 
        .navbar {
@@ -135,7 +127,7 @@ body {
 
 <div class="container">
     
-    <div class="center">دورة تعلم CSS</div>
+    <div class="center" >دورة تعلم CSS</div>
   </div>
     
     
